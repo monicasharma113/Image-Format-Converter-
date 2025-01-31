@@ -21,7 +21,7 @@ A simple web-based application that converts PNG images to JPG/JPEG format using
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-  
+  https://github.com/monicasharma113/Image-Format-Converter-.git
    ```
 2. Open `index.html` in a web browser.
 3. Start converting images instantly!
