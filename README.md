@@ -5,7 +5,7 @@ A simple web-based application that converts PNG images to JPG/JPEG format using
 ## Features
 - Upload PNG images and convert them to JPG/JPEG format.
 - Download the converted images easily.
-- No backend required, runs entirely in the browser.
+- No backend is required, runs entirely in the browser.
 - User-friendly interface with drag-and-drop support.
 
 ## Technologies Used
@@ -27,6 +27,14 @@ A simple web-based application that converts PNG images to JPG/JPEG format using
 2. Open `index.html` in a web browser.
 3. Start converting images instantly!
 
+## SAMPLE OUTPUT 
+
+![Screenshot](https://github.com/user-attachments/assets/8a4e12cb-307b-4dc0-94c7-8e182ca44d26)
+
+
+
+
+![Screenshot 2025-01-31 122806](https://github.com/user-attachments/assets/e1752e67-9c87-4b57-a175-dd19d110ddef)
 
 
 Feel free to contribute !!
